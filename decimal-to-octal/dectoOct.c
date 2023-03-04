@@ -6,7 +6,7 @@ void main()
     printf("Input a Decimal number: ");
     scanf("%d", &oct);
     int rem, i = 0;
-    int array[900000];
+    int array[10000];
 
     while (oct)
     {
